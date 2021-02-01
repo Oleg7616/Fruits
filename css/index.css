@@ -126,6 +126,10 @@
   .fruit_lightbrown {
     background: #cd853f;
   }
+
+  .fruit_black {
+    background: black;
+  }
   
   .fruit__info {
     display: flex;
