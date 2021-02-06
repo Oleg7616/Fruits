@@ -178,7 +178,7 @@ const sortAPI = {
           j--;
       }
       if (i <= j) {
-          swap(items, i, j);
+          this.swap(items, i, j);
           i++;
           j--;
       }
